@@ -1,0 +1,13 @@
+button {
+  color: black;
+  flex-grow: 1;
+}
+
+button:hover {
+  cursor: pointer;
+  color: blue;
+}
+
+.block {
+  margin-bottom: 24px;
+}
